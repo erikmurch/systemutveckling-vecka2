@@ -9,3 +9,11 @@ Agil metodik innebär i stället att man arbetar med små delar i taget, till ex
 Vattenfallsmodellen passar bäst när man redan från början vet vad systemet ska göra och kraven inte förväntas ändras. Då kan man planera projektet tydligt och beräkna tid, kostnad och vilka delar som behöver byggas.
 
 Agil metodik passar bäst när man inte vet allt från början eller när kraven kan ändras under projektet. Då är det bäst att arbeta i små delar, eftersom man kan testa, få feedback och förbättra/ändra systemet under vägens gång.
+
+## Fråga 2:
+### Vad är en git-commit?:
+En git-commit är en sparad version av projektet vid ett specifikt tillfälle.
+### Varför är det viktigt?:
+Det är viktigt för att om något går fel så kan man alltid gå tillbaka och kolla tidigare versioner och se vad som gått fel eller börja om på den versionen som fungerade sist.
+### Exempel:
+Du har en sida där du har gjort färdigt inloggnings funktionen, du gör sedan ändringar för att lägga till en registreringsfunktion men sen slutar inloggningsfunktionen fungera av okänd anledning. Då kan du alltid gå tillbaka till versionen där inloggningen fungera om du gjorde en commit.
